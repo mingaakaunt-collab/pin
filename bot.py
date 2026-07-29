@@ -11,7 +11,7 @@ import fragment_api
 import keep_alive
 from keep_alive import server as app
 
-BOT_TOKEN = "8947067629:AAEeUHhwe3qwkr-Q-FbA4mqx7S9hTduiweo"
+BOT_TOKEN = "8337116890:AAGETZWBZVVNnUtQFIHAtZ_h8lxHu6cuuG4"
 ADMIN_ID = 5866652107
 CHANNEL_ID = -1003791438142
 
